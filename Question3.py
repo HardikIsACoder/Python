@@ -1,3 +1,4 @@
+#3. Write a program to find out the prime factors of a number.
 n = int(input("Enter the number: "))
 def factors(n):
     fact = []
